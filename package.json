@@ -1,0 +1,8 @@
+{
+  "name": "page-load-tests",
+  "version": "0.0.1",
+  "description": "Page load tests",
+  "dependencies": {
+    "express": "latest"
+  }
+}
