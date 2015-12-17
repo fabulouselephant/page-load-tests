@@ -1,1 +1,1 @@
-web: node experiments.js
+web: node ./experiment.js
